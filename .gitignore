@@ -1,0 +1,17 @@
+*.idea
+.ipynb_checkpoints/
+.DS_Store
+.hypothesis/
+*.pyc
+*.egg-info/
+*.egg-info
+__pycache__/
+.pytest_cache/
+data/
+.terraform/
+venv/
+*.iml
+.coverage
+coverage/
+notebooks/
+settings.json

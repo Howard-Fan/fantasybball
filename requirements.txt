@@ -1,0 +1,5 @@
+click
+pandas
+XlsxWriter
+yahoo-fantasy-api
+yahoo-oauth
