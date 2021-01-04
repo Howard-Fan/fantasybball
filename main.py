@@ -15,6 +15,5 @@ def main(oauth_path, week, league_id, excel_dest_path):
     to_excel(stats, excel_dest_path)
 
 
-ny_league_id = "402.l.166838"
-tw_league_id = "402.l.64329"
-week_to_process = "1"
+if __name__ == '__main__':
+    main()
