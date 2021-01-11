@@ -14,14 +14,14 @@ if __name__ == '__main__':
     import sys
     week = sys.argv[1]
     main(
-        oauth_path="~/oauth2.json",
+        oauth_path="/Users/trpf793/oauth2.json",
         week=week,
         league_id="402.l.166838",
         excel_dest_path=f"./nyc_bball_league/w{week}.xlsx"
     )
 
     main(
-        oauth_path="~/oauth2.json",
+        oauth_path="/Users/trpf793/oauth2.json",
         week=week,
         league_id="402.l.64329",
         excel_dest_path=f"./2021_taiwan_number1/w{week}.xlsx"
